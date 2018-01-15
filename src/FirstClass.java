@@ -7,5 +7,6 @@ public class FirstClass {
 		System.out.println("\n" + s);
 		System.out.println("\n Now its ok.");
 		System.out.println("Login Implemented");
+		System.out.println("Forgot Password Implemented");
 	}
 }
